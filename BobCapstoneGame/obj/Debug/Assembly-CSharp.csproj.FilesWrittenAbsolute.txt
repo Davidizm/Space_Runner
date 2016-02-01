@@ -1,0 +1,34 @@
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/obj/Debug/Assembly-CSharp.dll
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/UnityEngine.dll
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/UnityEditor.dll
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Davidizm/Documents/Unity Projects/BobCapstoneGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Administrator/Programming/Unity/BobCapstoneGame/obj/Debug/Assembly-CSharp.dll
+/Users/Administrator/Programming/Unity/BobCapstoneGame/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/UnityEngine.dll
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/UnityEditor.dll
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Administrator/Programming/Unity/BobCapstoneGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
